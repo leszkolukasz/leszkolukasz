@@ -8,6 +8,8 @@
 
 My name is Łukasz Leszko and I'm currently studying Computer Science :computer: at University of Warsaw. My main field of interest is machine learning and I'm currently aspiring to become a ML Engineer.
 
+I'm also a competitive programmer and a keen Rubik's cube solver.
+
 Check out my [portfolio](https://leszkolukasz.github.io/portfolio/)!
 
 ## Technologies
