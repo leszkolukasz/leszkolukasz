@@ -6,12 +6,7 @@
 
 ## About me
 
-My name is Łukasz Leszko and I'm currently studying Computer Science :computer: at University of Warsaw.
-
-![](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)
-![](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+My name is Łukasz Leszko and I'm currently studying Computer Science :computer: at University of Warsaw. My main field of interest is machine learning and I'm currently aspiring to become a ML Engineer.
 
 ## Technologies
 
