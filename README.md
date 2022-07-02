@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leszkolukasz)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=leszkolukasz&show_icons=true&theme=github_dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark" />
+</a>
 
 <!--
 **leszkolukasz/leszkolukasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
