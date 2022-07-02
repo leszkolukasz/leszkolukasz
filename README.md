@@ -32,7 +32,7 @@ Check out my [portfolio](https://leszkolukasz.github.io/portfolio/)!
 </a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark&card_width=300&exclude_repo=portfolio" />
 </a>
 
 <!-- Shields from https://shields.io/ -->
