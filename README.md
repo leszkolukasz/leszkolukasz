@@ -28,5 +28,5 @@ My name is Łukasz Leszko and I'm currently studying Computer Science :computer:
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark&card_width=450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark&card_width=400" />
 </a>
