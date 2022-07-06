@@ -35,5 +35,5 @@ Check out my [portfolio](https://leszkolukasz.github.io/portfolio/)!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark&card_width=300&exclude_repo=portfolio" />
 </a>
 
-<!-- Shields from https://shields.io/ -->
+<!-- Shields from https://shields.io -->
 <!-- Github Stats widget from https://github.com/anuraghazra/github-readme-stats -->
