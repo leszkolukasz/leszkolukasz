@@ -36,7 +36,7 @@ Check out my [portfolio](https://leszkolukasz.github.io/portfolio/)!
 </a>
 
 ## Fun fact
-My profile picture is actually a fully working Hello World program written by ![Thomas Schoch](https://www.retas.de/thomas/computer/programs/useless/piet/explain.html) in esoteric programming language Piet (released under CC BY-SA 2.5).
+My profile picture is actually a fully working Hello World program written by [Thomas Schoch](https://www.retas.de/thomas/computer/programs/useless/piet/explain.html) in esoteric programming language Piet (released under CC BY-SA 2.5).
 
 <!-- Shields from https://shields.io -->
 <!-- Github Stats widget from https://github.com/anuraghazra/github-readme-stats -->
