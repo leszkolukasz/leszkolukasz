@@ -35,5 +35,8 @@ Check out my [portfolio](https://leszkolukasz.github.io/portfolio/)!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark&card_width=300&exclude_repo=portfolio" />
 </a>
 
+## Fun fact
+My profile picture is actually a fully working Hello World program written by ![Thomas Schoch](https://www.retas.de/thomas/computer/programs/useless/piet/explain.html) in esoteric programming language Piet (released under CC BY-SA 2.5).
+
 <!-- Shields from https://shields.io -->
 <!-- Github Stats widget from https://github.com/anuraghazra/github-readme-stats -->
