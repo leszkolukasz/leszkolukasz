@@ -6,7 +6,7 @@
 
 ## About me
 
-My name is Łukasz Leszko and I'm currently studying Computer Science :computer: and Mathematics :heavy_division_sign: at University of Warsaw. My main field of interest is Python development and I'm currently aspiring to become a ML Engineer.
+My name is Łukasz Leszko and I'm currently studying Computer Science :computer: and Mathematics :heavy_division_sign: at University of Warsaw. Recently I became Junior Software Engineer at Devbridge. I'm currently aspiring to become a ML Engineer.
 
 I'm also a retired competitive programmer, a keen Rubik's cube solver, and esoteric programming languages enjoyer.
 
