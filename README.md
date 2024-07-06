@@ -10,7 +10,7 @@ My name is Łukasz Leszko and I'm currently studying Computer Science :computer:
 
 I'm also a retired competitive programmer, a keen Rubik's cube solver, and esoteric programming languages enjoyer.
 
-Check out my [portfolio](https://vscode-portfolio-pearl.vercel.app/)! (work in progress)
+Check out my [portfolio](https://vscode-portfolio-pearl.vercel.app/)!
 
 ## Technologies
 
