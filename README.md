@@ -7,9 +7,9 @@
 ## About me
 
 My name is Łukasz Leszko and I'm currently studying Machine Learning (Master's degree) :computer: and Mathematics (Bachelor's degree) :heavy_division_sign: at University of Warsaw and recently earned bachelor's degree in Computer Science :mortar_board:.
-I specialize in web development and machine learning. I aspire to become an ML Engineer.
+I specialize in web development and machine learning.
 
-I'm currently working as Web3 developer at Fountain Platform.
+I'm currently working as Machine learning and Web3 developer at RadCode.
 
 I'm also a retired competitive programmer, a keen Rubik's cube solver, and esoteric programming languages enjoyer.
 
