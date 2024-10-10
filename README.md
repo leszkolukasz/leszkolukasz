@@ -13,7 +13,7 @@ I'm currently working as Machine learning and Web3 developer at RadCode.
 
 I'm also a retired competitive programmer, a keen Rubik's cube solver, and esoteric programming languages enjoyer.
 
-Check out my [portfolio](https://vscode-portfolio-pearl.vercel.app/)!
+Check out my [portfolio](https://lukaszleszko.dev/)!
 
 ## Languages and Tools
 
