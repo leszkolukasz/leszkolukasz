@@ -7,13 +7,22 @@
 ## About me
 
 My name is Łukasz Leszko and I'm currently studying Machine Learning (Master's degree) :computer: and Mathematics (Bachelor's degree) :heavy_division_sign: at University of Warsaw and recently earned bachelor's degree in Computer Science :mortar_board:.
-I specialize in web development and machine learning.
 
-I'm also a retired competitive programmer, a keen Rubik's cube solver, and esoteric programming languages enjoyer.
+I'm also a retired competitive programmer, gamer and keen on Linux and FOSS.
 
 Check out my [portfolio](https://lukaszleszko.dev/)!
 
-## Languages and Tools
+<details>
+<summary><b>Areas of interest</b></summary>
+<br>
+  
+- Programming languages (compilers, language design)
+- Machine learning (still looking for my niche)
+
+</details>
+
+<details>
+<summary><b>Languages and Tools</b></summary>
 
 <!--![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,8 +71,31 @@ Check out my [portfolio](https://lukaszleszko.dev/)!
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
+</details>
 
-## Github Stats
+<details>
+<summary><b>Education</b></summary>
+  
+### 2024–current University of Warsaw
+
+Master's degree in Machine Learning
+
+### 2022–current University of Warsaw
+
+Bachelor's degree in Mathematics
+
+### 2021–2024 University of Warsaw
+
+Bachelor's degree in Computer Science
+  
+- Thesis: Gitoptim - a tool for automating programmer's work using large language models
+- Grade: Good (4.25 in a 2–5 scale)
+
+</details>
+
+
+<details open>
+<summary><b>Github Stats</b></summary>
 
 <br>
 
@@ -74,6 +106,8 @@ Check out my [portfolio](https://lukaszleszko.dev/)!
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leszkolukasz&theme=github_dark&card_width=300&exclude_repo=portfolio" />
 </a>
+
+</details>
 
 ## Fun fact
 My profile picture is actually a fully working Hello World program written by [Thomas Schoch](https://www.retas.de/thomas/computer/programs/useless/piet/explain.html) in esoteric programming language Piet (released under CC BY-SA 2.5).
