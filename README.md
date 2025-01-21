@@ -41,7 +41,7 @@ Check out my [portfolio](https://lukaszleszko.dev/)!
 |---------|---------|----------|--------|----------|-----|-----|-----|----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  title="SQL" alt="SQL" width="55" height="55"/>
 
-### Frameworks
+### Web
 
 | Django | FastAPI | Spring | React | Next.js | Astro |
 |--------|---------|--------|-------|--------|------|
