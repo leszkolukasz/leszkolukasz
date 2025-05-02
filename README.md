@@ -17,7 +17,7 @@ Check out my [portfolio](https://lukaszleszko.dev/)!
 <br>
   
 - Programming languages (compilers, language design)
-- Machine learning (still looking for my niche)
+- Machine learning (LLMs)
 
 </details>
 
