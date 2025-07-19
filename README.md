@@ -37,41 +37,27 @@ Check out my [portfolio](https://lukaszleszko.dev/)!
 
 ### Languages
 
-| Python3 | Java | C++ | Rust | TS | Solidity | Haskell | OCaml | SQL |
-|---------|---------|----------|--------|----------|-----|-----|-----|----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  title="SQL" alt="SQL" width="55" height="55"/>
+| Python | Java | C++ | Rust | TypeScript | Haskell | OCaml | SQL |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/python.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/java.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/cpp.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/rust.svg" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/haskell.svg" title="Haskell" alt="Haskell" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/ocaml.svg" title="OCaml" alt="OCaml" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/postgresql.svg" title="SQL" alt="SQL" width="55" height="55"/> |
 
 ### Web
 
 | Django | FastAPI | Spring | React | Next.js | Astro |
-|--------|---------|--------|-------|--------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" /> |
+|---------|---------|---------|---------|---------|---------|
+| <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/django.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/fastapi.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/spring.svg" title="Spring" alt="Spring" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/react.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/nextjs.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/astro.svg" title="Astro" alt="Astro" width="55" height="55"/> |
 
 ### Machine Learning
 
-| Pytorch | llama.cpp | Numpy | Pandas | Polars | Sklearn |
-|----------|--------|--------|----------|---------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>| <img src="https://pypi-camo.freetls.fastly.net/c764f7e6f4adf3fbd414c1f6246128b002e2dbc2/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f616265746c656e2f6c6c616d612d6370702d707974686f6e2f6d61696e2f646f63732f69636f6e2e737667" title="llamacpp" alt="llamacpp" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>| <img src="https://images.icon-icons.com/3914/PNG/512/polars_logo_icon_248809.png" title="polars" alt="polars" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|
-
-<!--
-### Environments, Tools
-
-| Git | Docker | Vite |
-|-------|------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="55" height="55"/> |
--->
-
-### Code Editor
-
-| VS Code | Neovim | Jetbrains |
-|---------|--------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="55" height="55"/> | 
+| Pytorch | llama.cpp | ClearML | Numpy | Pandas | Polars | Sklearn |
+|---------|---------|---------|---------|---------|---------|---------|
+| <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/pytorch.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/llamacpp.svg" title="llama.cpp" alt="llama.cpp" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/clearml.svg" title="ClearML" alt="ClearML" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/numpy.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/polars.svg" title="Polars" alt="Polars" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/sklearn.svg" title="Sklearn" alt="Sklearn" width="55" height="55"/> |
 
 ### OS
 
 | NixOS | Arch |
-|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+|---------|---------|
+| <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/nixos.svg" title="NixOS" alt="NixOS" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/arch.svg" title="Arch" alt="Arch" width="55" height="55"/> |
 
 </details>
 
