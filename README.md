@@ -41,6 +41,28 @@ Check out my [portfolio](https://lukaszleszko.dev/)!
 |---------|---------|---------|---------|---------|---------|---------|---------|
 | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/python.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/java.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/cpp.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/rust.svg" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/haskell.svg" title="Haskell" alt="Haskell" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/ocaml.svg" title="OCaml" alt="OCaml" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/postgresql.svg" title="SQL" alt="SQL" width="55" height="55"/> |
 
+<details>
+<summary><em>Tier List</em></summary>
+<br>
+
+| <span style="background:#ff7f7f;padding:25px 30px;border-radius:3px;color:black">S</span> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/haskell.svg" title="Haskell" alt="Haskell" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/rust.svg" title="Rust" alt="Rust" width="55" height="55"/> |
+|---------|---------|---------|
+
+| <span style="background:#ffbf7f;padding:25px 30px;border-radius:3px;color:black">A</span> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/kotlin.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/gleam.svg" title="Gleam" alt="Gleam" width="55" height="55"/> |
+|---------|---------|---------|
+
+| <span style="background:#ffdf7f;padding:25px 30px;border-radius:3px;color:black">B</span> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/python.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/ocaml.svg" title="OCaml" alt="OCaml" width="55" height="55"/> |
+|---------|---------|---------|---------|
+
+| <span style="background:#ffff7f;padding:25px 30px;border-radius:3px;color:black">C</span> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/c.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/cpp.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/go.svg" title="Go" alt="Go" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/lua.svg" title="Lua" alt="Lua" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/rocq.svg" title="Rocq" alt="Rocq" width="55" height="55"/> |
+|---------|---------|---------|---------|---------|---------|
+
+| <span style="background:#bfff7f;padding:25px 30px;border-radius:3px;color:black">D</span> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/java.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+|---------|---------|---------|
+
+
+</details>
+
 ### Web
 
 | Django | FastAPI | Spring | React | Next.js | Astro |
@@ -52,6 +74,8 @@ Check out my [portfolio](https://lukaszleszko.dev/)!
 | Pytorch | llama.cpp | LiteLLM | Numpy | Pandas | Polars | Sklearn |
 |---------|---------|---------|---------|---------|---------|---------|
 | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/pytorch.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/llamacpp.svg" title="llama.cpp" alt="llama.cpp" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/litellm.svg" title="LiteLLM" alt="LiteLLM" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/numpy.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/polars.svg" title="Polars" alt="Polars" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/leszkolukasz/portfolio/main/src/icons/sklearn.svg" title="Sklearn" alt="Sklearn" width="55" height="55"/> |
+
+
 
 ### OS
 
