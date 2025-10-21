@@ -10,7 +10,7 @@ My name is Łukasz Leszko and I'm currently studying Machine Learning (Master's 
 
 I'm also a retired competitive programmer, gamer and keen on Linux and FOSS.
 
-Check out my [portfolio](https://lukasz.leszko.dev/)! It includes projects not shown here.
+Check out my [portfolio](https://lukasz.leszko.dev/)! It includes proprietary projects not shown here.
 
 <details>
 <summary><b>Areas of interest</b></summary>
