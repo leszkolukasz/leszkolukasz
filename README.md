@@ -6,7 +6,7 @@
 
 ## About me
 
-My name is Łukasz Leszko and I'm currently studying Machine Learning (Master's degree) :computer: and Mathematics (Bachelor's degree) :heavy_division_sign: at University of Warsaw and recently earned bachelor's degree in Computer Science :mortar_board:.
+My name is Łukasz Leszko. I'm a Computer Science graduate :mortar_board: currently studying Machine Learning :robot:, Mathematics :heavy_division_sign: (MIMUW), and Physics :atom_symbol: (FUW) at the University of Warsaw.
 
 I'm also a retired competitive programmer, gamer and keen on Linux and FOSS.
 
@@ -87,21 +87,14 @@ Check out my [portfolio](https://lukasz.leszko.dev/)! It includes proprietary pr
 
 <details>
 <summary><b>Education</b></summary>
+<br/>
   
-### 2024–current University of Warsaw
-
-Master's degree in Machine Learning
-
-### 2022–current University of Warsaw
-
-Bachelor's degree in Mathematics
-
-### 2021–2024 University of Warsaw
-
-Bachelor's degree in Computer Science
-  
-- Thesis: Gitoptim - a tool for automating programmer's work using large language models
-- Grade: Good (4.25 in a 2–5 scale)
+| Years | Degree & Field | Faculty | Thesis |
+| :--- | :--- | :--- | :--- |
+| **2026 - present** | **B.Sc. in Physics** *(In progress)* | FUW | - |
+| **2024 - present** | **M.Sc. in Machine Learning** *(In progress)* | MIMUW | - |
+| **2022 - present** | **B.Sc. in Mathematics** *(In progress)* | MIMUW | *Thesis: Finding optimal timesteps for score-based diffusion models* |
+| **2021 - 2024** | **B.Sc. in Computer Science** *(Graduated)* | MIMUW | *Thesis: Gitoptim - a tool for automating programmer's work using large language models* |
 
 </details>
 
