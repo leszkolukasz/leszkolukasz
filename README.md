@@ -17,7 +17,7 @@ Check out my [portfolio](https://lukasz.leszko.dev/)! It includes proprietary pr
 <br>
   
 - Programming languages (compilers, language design)
-- Machine learning (LLMs)
+- Machine learning (Diffusion Models)
 
 </details>
 
